@@ -1,0 +1,16 @@
+python-service/
+*.md
+.env.local
+.env
+.DS_Store
+node_modules/
+.git/
+*.log
+coverage/
+.nyc_output/
+.next/
+out/
+build/
+dist/
+tmp/
+temp/

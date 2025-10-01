@@ -1,21 +1,50 @@
-import FingerprintJS from '@fingerprintjs/fingerprintjs'
 import { createClient } from '@/lib/supabase/client'
 
-let fpPromise: Promise<any> | null = null
-
+// Client-side fingerprint generation (browser only)
 export async function getDeviceFingerprint(): Promise<string> {
-  if (!fpPromise) {
-    fpPromise = FingerprintJS.load()
+  if (typeof window === 'undefined') {
+    return 'server-side'
   }
 
   try {
-    const fp = await fpPromise
+    // Dynamic import to avoid server-side loading issues
+    const FingerprintJS = await import('@fingerprintjs/fingerprintjs')
+    const fp = await FingerprintJS.default.load()
     const result = await fp.get()
     return result.visitorId
   } catch (error) {
     console.error('Device fingerprint generation failed:', error)
-    return 'unknown'
+    // Fallback to basic browser fingerprint
+    return generateBasicFingerprint()
   }
+}
+
+// Basic fingerprint fallback
+function generateBasicFingerprint(): string {
+  if (typeof window === 'undefined') return 'server-fallback'
+
+  const canvas = document.createElement('canvas')
+  const ctx = canvas.getContext('2d')
+  ctx?.fillText('fingerprint', 2, 2)
+
+  const fingerprint = [
+    navigator.userAgent,
+    navigator.language,
+    screen.width + 'x' + screen.height,
+    screen.colorDepth,
+    new Date().getTimezoneOffset(),
+    canvas.toDataURL()
+  ].join('|')
+
+  // Simple hash function
+  let hash = 0
+  for (let i = 0; i < fingerprint.length; i++) {
+    const char = fingerprint.charCodeAt(i)
+    hash = ((hash << 5) - hash) + char
+    hash = hash & hash
+  }
+
+  return Math.abs(hash).toString(16)
 }
 
 export async function checkDuplicateFingerprints(
@@ -31,7 +60,7 @@ export async function checkDuplicateFingerprints(
       .eq('device_fingerprint', fingerprint)
 
     if (excludeUserId) {
-      query = query.neq('id', excludeUserId)
+      query = query.not('id', 'eq', excludeUserId)
     }
 
     const { data, error } = await query

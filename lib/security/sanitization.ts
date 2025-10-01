@@ -19,11 +19,11 @@ const AI_ARTIFACTS = [
   /As an AI (assistant|model|language model)/gi,
 
   // System prompt leakage
-  /\[SYSTEM\].*?\[\/SYSTEM\]/gis,
-  /<system>.*?<\/system>/gis,
-  /\[INST\].*?\[\/INST\]/gis,
-  /<\|im_start\|>.*?<\|im_end\|>/gis,
-  /Human:.*?Assistant:/gis,
+  /\[SYSTEM\][\s\S]*?\[\/SYSTEM\]/gi,
+  /<system>[\s\S]*?<\/system>/gi,
+  /\[INST\][\s\S]*?\[\/INST\]/gi,
+  /<\|im_start\|>[\s\S]*?<\|im_end\|>/gi,
+  /Human:[\s\S]*?Assistant:/gi,
 
   // Training data references
   /According to my training (data|dataset)/gi,
@@ -197,8 +197,8 @@ export function sanitizeMarkdown(markdown: string): SanitizationResult {
   // Remove potentially dangerous markdown
   sanitized = sanitized.replace(/javascript:/gi, '') // Remove javascript: links
   sanitized = sanitized.replace(/data:/gi, '') // Remove data: URIs
-  sanitized = sanitized.replace(/<script[^>]*>.*?<\/script>/gis, '[SCRIPT_REMOVED]') // Remove script tags
-  sanitized = sanitized.replace(/<iframe[^>]*>.*?<\/iframe>/gis, '[IFRAME_REMOVED]') // Remove iframes
+  sanitized = sanitized.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '[SCRIPT_REMOVED]') // Remove script tags
+  sanitized = sanitized.replace(/<iframe[^>]*>[\s\S]*?<\/iframe>/gi, '[IFRAME_REMOVED]') // Remove iframes
 
   // Clean up markdown formatting
   sanitized = sanitized.replace(/#{4,}/g, '###') // Limit heading levels

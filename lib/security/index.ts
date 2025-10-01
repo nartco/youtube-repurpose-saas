@@ -1,4 +1,9 @@
 // Security fortress exports - all security functions in one place
+import { globalRateLimit } from './rate-limit'
+import { getDeviceFingerprint, checkDuplicateFingerprints } from './fingerprint'
+import { normalizeEmail, checkDuplicateEmail, validateEmailSecurity } from './email'
+import { moderateContent as moderateContentFn, checkUserViolations } from './moderation'
+
 export {
   getDeviceFingerprint,
   checkDuplicateFingerprints,
@@ -111,7 +116,7 @@ export async function performSecurityCheck(
 
     // Content moderation (if content provided)
     if (moderateContent && request.body?.content) {
-      const moderationResult = await moderateContent(request.body.content)
+      const moderationResult = await moderateContentFn(request.body.content)
       results.moderationResult = moderationResult
       results.riskScore += moderationResult.riskScore
 

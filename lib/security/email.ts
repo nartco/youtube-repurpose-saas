@@ -34,13 +34,12 @@ export async function checkDuplicateEmail(
       .from('users')
       .select('id, email')
       .eq('email_normalized', normalized)
-      .single()
 
     if (excludeUserId) {
-      query = query.neq('id', excludeUserId)
+      query = query.not('id', 'eq', excludeUserId)
     }
 
-    const { data, error } = await query
+    const { data, error } = await query.single()
 
     // If no data found, it's not a duplicate
     if (error && error.code === 'PGRST116') {

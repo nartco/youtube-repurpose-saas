@@ -29,7 +29,7 @@ export function rateLimit(config: RateLimitConfig) {
   } = config
 
   return async (request: NextRequest): Promise<NextResponse | null> => {
-    const ip = request.ip || request.headers.get('x-forwarded-for') || 'unknown'
+    const ip = request.headers.get('x-forwarded-for') || request.headers.get('x-real-ip') || 'unknown'
     const userAgent = request.headers.get('user-agent') || ''
     const key = `${ip}:${userAgent.substring(0, 50)}`
     const now = Date.now()
@@ -238,11 +238,11 @@ export function cleanupRateLimitRecords(): void {
   const now = Date.now()
   const cutoff = now - (60 * 60 * 1000) // 1 hour
 
-  for (const [key, record] of requestCounts.entries()) {
+  requestCounts.forEach((record, key) => {
     if (record.resetTime < cutoff && (!record.blockUntil || record.blockUntil < now)) {
       requestCounts.delete(key)
     }
-  }
+  })
 }
 
 // Global rate limit for all requests
