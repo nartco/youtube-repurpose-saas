@@ -1,7 +1,19 @@
 import { createServerClient, type CookieOptions } from '@supabase/ssr'
 import { NextResponse, type NextRequest } from 'next/server'
+import { securityMiddleware, getSecurityConfigForPath, addSecurityHeaders } from '@/lib/security/middleware'
 
 export async function middleware(request: NextRequest) {
+  const pathname = request.nextUrl.pathname
+
+  // Apply security checks first
+  const securityConfig = getSecurityConfigForPath(pathname)
+  const securityResult = await securityMiddleware(request, securityConfig)
+
+  if (securityResult) {
+    // Security check failed, return the error response with security headers
+    return addSecurityHeaders(securityResult)
+  }
+
   let response = NextResponse.next({
     request: {
       headers: request.headers,
@@ -72,7 +84,8 @@ export async function middleware(request: NextRequest) {
     }
   }
 
-  return response
+  // Add security headers to all responses
+  return addSecurityHeaders(response)
 }
 
 export const config = {
