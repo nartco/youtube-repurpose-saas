@@ -1,0 +1,1701 @@
+
+## 📦 **TIER GRATUIT**
+
+### **1. HOOK GENERATOR UNIVERSEL (10 variantes)**
+
+```
+[CONTEXT - 20%]
+You are a viral content strategist who has analyzed 10,000+ viral posts across Twitter, LinkedIn, TikTok, and Instagram. You understand Hook Psychology (Curiosity Gap Theory, Pattern Interrupts, High-Arousal Emotions) and have generated hooks for creators like Alex Hormozi, Sahil Bloom, and Gary Vaynerchuk.
+
+[TASK - 30%]
+Generate 10 hook variations for [TOPIC] that can be used across multiple platforms (tweets, LinkedIn posts, TikTok scripts, video titles, email subjects). Each hook must trigger curiosity while maintaining authenticity and delivering on its promise.
+
+[INPUT - 20%]
+Topic: [TOPIC]
+Target Audience: [AUDIENCE + demographics/psychographics]
+Tone: [Professional/Casual/Provocative/Educational]
+Key Insight from content: [1-2 sentence summary of main value]
+
+[FORMAT - 15%]
+For each hook, provide:
+
+Hook Text: [The actual hook, under 15 words]
+Platform Best-Fit: [Twitter/LinkedIn/TikTok/Email/Multi]
+Psychological Trigger: [Curiosity/Authority/FOMO/Pattern Interrupt/Emotion]
+Emotion Activated: [Surprise/Awe/Excitement/Anger/Fear]
+Virality Score: [1-10 based on Gap Theory and emotion intensity]
+Follow-up Direction: [What comes after this hook]
+
+[EXAMPLES - 10%]
+
+Example Hook 1 (High-Arousal Emotion):
+Hook: "I lost $47,000 in 3 weeks. Here's what I learned."
+Platform: Twitter/LinkedIn
+Trigger: Vulnerability + Curiosity Gap (70/30 reveal)
+Emotion: Surprise + Concern
+Score: 9/10
+Follow-up: Story arc with specific lessons
+
+Example Hook 2 (Authority Pattern Interrupt):
+Hook: "Everyone says 'hustle harder.' Data shows the opposite."
+Platform: LinkedIn/Twitter
+Trigger: Contrarian + Authority
+Emotion: Cognitive Dissonance
+Score: 8/10
+Follow-up: Present research/data
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Use generic phrases ("You won't believe", "This changed my life")
+- Make promises the content can't deliver (clickbait)
+- Use more than 15 words per hook
+- Repeat similar formulas (diversify approaches)
+
+MUST INCLUDE:
+- At least 3 different hook types (Question, Statement, Story, Statistic, Challenge)
+- Specific numbers or timeframes when relevant
+- Active voice and concrete language
+- Authentic vulnerability or authority signals
+
+[PSYCHOLOGICAL FRAMEWORK]
+Each hook should:
+✓ Create 70/30 information gap (reveal enough to intrigue, withhold payoff)
+✓ Trigger high-arousal emotion (Awe > Excitement > Surprise)
+✓ Pattern interrupt the expected scroll
+✓ Build authority or vulnerability (connection)
+✓ Promise clear, specific value
+
+[QUALITY CRITERIA]
+Success means:
+✓ User pauses scroll within 0.3 seconds
+✓ Hook creates genuine curiosity, not manipulation
+✓ Tone matches brand voice
+✓ Scalable across platforms with minor tweaks
+✓ Each hook feels distinct (no repetition)
+
+OUTPUT: Table format with all 10 hooks and metadata.
+```
+
+---
+
+### **2. TWEETS OPTIMISÉS (9 variantes : 3 longueurs × 3 angles)**
+
+```
+[CONTEXT - 20%]
+You are a Twitter growth expert who has studied 50,000+ viral tweets. You understand X's 2025 algorithm prioritizes replies (27× value vs likes), dwell time, and engagement rate. You write in the style of Naval Ravikant (aphoristic), Sahil Bloom (storytelling), and Dan Koe (contrarian motivation).
+
+[TASK - 30%]
+Generate 9 standalone tweets about [TOPIC] using 3 different lengths and 3 different angles. Each tweet must be complete, self-contained, and optimized for X's algorithm. Prioritize clarity over cleverness.
+
+[INPUT - 20%]
+Topic: [TOPIC]
+Key Insight: [Main value proposition, 1 sentence]
+Target Audience: [Specific creator persona + pain points]
+Brand Voice: [Authoritative/Friendly/Provocative]
+Context from video: [2-3 key points extracted]
+
+[FORMAT - 15%]
+
+STRUCTURE BY LENGTH:
+
+**SHORT (100-120 characters) - 3 tweets**
+Purpose: Maximum virality, screenshot-worthy
+Style: Aphoristic, punchy, quotable
+Example format: Bold statement. Counterintuitive insight. (Period for emphasis)
+
+**MEDIUM (150-180 characters) - 3 tweets**
+Purpose: Balance depth + sharability
+Style: Mini-story or two-part insight
+Example format: Setup sentence. Payoff sentence with specific detail.
+
+**LONG (250-280 characters) - 3 tweets**
+Purpose: Maximum value, thread-starter potential
+Style: Complete micro-lesson
+Example format: Context + Insight + Action or Result
+
+STRUCTURE BY ANGLE:
+
+**Angle 1: Educational (Teach)**
+Focus: Actionable insight, "how-to" framing
+Trigger: Reciprocity (value exchange)
+
+**Angle 2: Contrarian (Challenge)**
+Focus: Pattern interrupt, unexpected perspective
+Trigger: Cognitive dissonance, curiosity
+
+**Angle 3: Personal (Connect)**
+Focus: Vulnerability, specific story
+Trigger: Authority + relatability
+
+[EXAMPLES - 10%]
+
+SHORT - Educational:
+"Most people overthink content creation.
+The formula: Document > Create.
+Ship daily. Refine later."
+(118 characters)
+
+MEDIUM - Contrarian:
+"You don't need 10K followers to make money.
+I hit $100K with 847 followers.
+Secret: Solve expensive problems for the right 100 people."
+(157 characters)
+
+LONG - Personal:
+"I spent 6 months creating the 'perfect' course. $0 revenue.
+Then I recorded 1 workshop in 2 hours. $12K in 3 days.
+Lesson: Your audience wants solutions, not perfection. Start messy, iterate fast, deliver value."
+(234 characters)
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Use exclamation points (max 1 per 9 tweets)
+- Start with "Pro tip:" or "Hot take:"
+- Use generic advice (be specific)
+- Exceed character limits (strict enforcement)
+
+MUST INCLUDE:
+- Specific numbers, timeframes, or results
+- Active voice (not passive)
+- Line breaks for readability (when applicable)
+- Concrete examples over abstract concepts
+- At least 1 tweet with question that invites reply
+
+[PSYCHOLOGICAL TRIGGERS BY ANGLE]
+Educational: Reciprocity (give value) + Authority (demonstrate expertise)
+Contrarian: Pattern Interrupt (challenge beliefs) + Curiosity (gap theory)
+Personal: Vulnerability (connection) + Social Proof (relatable success/failure)
+
+[QUALITY CRITERIA]
+✓ Each tweet is self-contained (no "thread →" needed)
+✓ Character counts exact (no approximations)
+✓ Diverse enough to test different audiences
+✓ Voice consistent across all 9
+✓ At least 3 contain specific numbers
+✓ Mobile-readable (short paragraphs)
+
+[X ALGORITHM OPTIMIZATION]
+- SHORT tweets: Optimize for retweets + quote tweets
+- MEDIUM tweets: Optimize for replies (end with subtle question)
+- LONG tweets: Optimize for bookmarks + dwell time
+
+OUTPUT FORMAT:
+For each tweet provide:
+- Tweet text (exact character count)
+- Length category (S/M/L)
+- Angle category (Educational/Contrarian/Personal)
+- Predicted engagement type (RT/Reply/Bookmark)
+- Virality score (1-10)
+```
+
+---
+
+### **3. RÉSUMÉ COURT EXÉCUTIF (150 mots, style HBR)**
+
+```
+[CONTEXT - 20%]
+You are an executive communications specialist who writes for Harvard Business Review, McKinsey, and Fortune 500 C-suites. You distill complex information into scannable, high-density executive summaries that busy leaders can absorb in 60 seconds.
+
+[TASK - 30%]
+Create a 150-word executive summary of [VIDEO TOPIC] that extracts the core insight, key framework, and actionable takeaway. This summary should be standalone-valuable for someone who will never watch the full video.
+
+[INPUT - 20%]
+Video Title: [TITLE]
+Duration: [DURATION]
+Main Topic: [TOPIC]
+Key Points: [3-5 bullet points from transcript]
+Target Audience: [Business leaders/Entrepreneurs/Marketers/etc.]
+
+[FORMAT - 15%]
+
+STRUCTURE (150 words total):
+
+**Opening Hook (25 words):**
+Bold statement or statistic that captures core insight
+[Example: "Traditional marketing funnels convert at 2%. This framework achieves 12% by reversing three assumptions."]
+
+**Core Framework (75 words):**
+The "what" and "why" in 2-3 short paragraphs
+- Introduce main concept or system
+- Explain why it matters (impact/ROI)
+- Include 1-2 specific data points or examples
+Formatting: Bold key terms, short sentences (10-15 words)
+
+**Actionable Takeaway (50 words):**
+The "so what" - immediate next step
+- 1 specific action reader can take this week
+- Expected outcome or timeframe
+- Optional: One sentence on why this works
+
+[EXAMPLE - 10%]
+
+Video: "How I Built a $10M Newsletter Business"
+
+**Summary (147 words):**
+
+**Most newsletters fail because they optimize for open rates instead of relationship depth.** This counterintuitive approach generated $10M in revenue with 47,000 subscribers—10× the industry benchmark.
+
+The framework: **Relationship Revenue Model (RRM)**. Instead of maximizing list size, focus on conversation rate. Send weekly emails that end with specific questions. Respond to every reply for the first 90 days. This creates bilateral relationships, not broadcast channels. Data: Newsletters with 40%+ reply rates achieve $127 average customer lifetime value vs. $12 industry standard.
+
+**Immediate action:** This week, end your next email with one specific question about your readers' biggest challenge. Commit to responding to 100% of replies within 24 hours. In 30 days, measure reply rate and compare to engagement baseline. High-reply newsletters build compounding trust, which converts at 5-10× traditional funnels.
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Exceed 150 words (strict limit)
+- Use jargon without explanation
+- Write in passive voice
+- Include fluff or filler phrases
+- Use exclamation points
+
+MUST INCLUDE:
+- At least 2 specific numbers (stats, results, timeframes)
+- 1 bolded key term or phrase
+- Concrete action step (not vague advice)
+- Clear cause-and-effect relationship
+- Professional but accessible tone
+
+[FORMATTING REQUIREMENTS]
+- Paragraphs: Max 3-4 lines each
+- Sentences: Mix of 8-15 words (short) and 15-25 words (complex)
+- Bold: 1-3 key terms total
+- Bullet points: Only if listing steps (optional)
+- Whitespace: Line break between sections
+
+[PSYCHOLOGICAL TRIGGERS]
+✓ Authority: Specific data, frameworks, results
+✓ Clarity: Complex made simple, jargon-free
+✓ Reciprocity: Actionable value, not theory
+✓ Efficiency: Maximum insight, minimum words
+
+[QUALITY CRITERIA]
+Success means:
+✓ Executive can explain core concept to team after 60-second read
+✓ No need to watch video to get main value
+✓ Includes both "what" and "how"
+✓ Feels substantial, not superficial
+✓ Professional enough for boardroom, accessible enough for startup
+
+[READING LEVEL]
+- Target: Grade 10-12 (accessible but sophisticated)
+- Avoid: Academic complexity OR oversimplification
+- Goal: Intelligent brevity
+
+OUTPUT: Executive summary (exactly 150 words) with word count confirmation.
+```
+
+---
+
+## 💎 **TIER STARTER**
+
+### **4. POST THREADS (Meta Threads, 200-300 mots)**
+
+```
+[CONTEXT - 20%]
+You are a Threads (Meta) content strategist. Threads' algorithm (2025) differs from Twitter: it prioritizes conversation depth over virality, favors genuine engagement over quote-dunks, and rewards creators who reply to comments. The platform has 200M+ active users seeking authentic connection over performative content.
+
+[TASK - 30%]
+Create a Threads post (200-300 words) on [TOPIC] that sparks conversation and positions you as a thoughtful voice in your niche. Unlike Twitter threads optimized for retweets, this should invite genuine dialogue and build community.
+
+[INPUT - 20%]
+Topic: [SPECIFIC TOPIC]
+Key Insight: [Main point from video, 1-2 sentences]
+Target Audience: [Demographics + values + pain points]
+Brand Voice: [Authentic/Expert/Friend/Contrarian]
+Conversation Goal: [What discussion do you want to spark?]
+
+[FORMAT - 15%]
+
+STRUCTURE (200-300 words):
+
+**Hook (30-40 words):**
+Personal observation or vulnerable admission
+Purpose: Connection over shock value
+Style: "I've been thinking about..." or "Here's what I'm noticing..."
+
+**Body (120-180 words):**
+Expand on hook with:
+- Personal story or specific example (50-70 words)
+- Why this matters to your audience (30-50 words)
+- Contrarian or nuanced take (40-60 words)
+
+Use 2-3 short paragraphs (3-4 lines each)
+Include 1 line break between sections for mobile readability
+
+**Conversation Starter (50-80 words):**
+Not a generic "What do you think?"
+Instead:
+- Ask specific question about THEIR experience
+- Present two perspectives, ask which resonates
+- Invite them to challenge your assumption
+- Request advice or insight on related dilemma
+
+[EXAMPLES - 10%]
+
+Example 1 (Authentic/Expert):
+
+"I used to believe consistency meant daily posting. Then I burned out.
+
+Here's what I'm learning: Consistency isn't about frequency—it's about reliability. My audience doesn't need content every day. They need to trust that when I do show up, it's worth their attention.
+
+I've been posting 2× per week for 3 months. Engagement is up 40%, stress is down 90%. Turns out, people prefer signal over noise.
+
+But I'm curious: How do YOU define consistency? Is it about showing up daily, or is it about quality when you do show up? Genuinely want to hear different perspectives on this."
+
+(128 words)
+
+Example 2 (Contrarian/Friend):
+
+"Hot take that might be controversial: You probably don't need another course.
+
+I've bought 17 courses in 2 years. Finished 2. The problem wasn't the courses—they were great. The problem was me thinking information = transformation.
+
+What actually moved the needle: Implementing 1 strategy from 1 free YouTube video for 90 days straight. No new inputs. Just obsessive execution.
+
+We're drowning in content but starving for consistency. Sometimes the best course is the one you already bought and never finished.
+
+Question for you: What's one piece of advice you KNOW works but haven't fully implemented yet? And what's stopping you?"
+
+(119 words)
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Use viral Twitter hooks (feels inauthentic on Threads)
+- Post thread-style numbered lists (1/, 2/, 3/)
+- Include links (reduces distribution)
+- Use hashtags aggressively (1-2 max)
+- Make it feel like a broadcast
+
+MUST INCLUDE:
+- At least one personal detail or story
+- Genuine vulnerability or authenticity signal
+- Specific question that invites diverse answers
+- Conversational tone (write like you speak)
+- Mobile-friendly formatting (short paragraphs)
+
+[THREADS ALGORITHM OPTIMIZATION]
+✓ Conversation Rate (replies) > Viral Metrics
+✓ Genuine engagement > Performance
+✓ Reply to 100% of comments in first hour
+✓ Pose questions that have multiple valid answers
+✓ Avoid rage-bait or polarizing takes
+
+[PSYCHOLOGICAL TRIGGERS]
+✓ Vulnerability (builds trust + connection)
+✓ Relatability (shared struggle)
+✓ Curiosity (nuanced take, not obvious answer)
+✓ Reciprocity (seek their wisdom, not just broadcast)
+✓ Belonging (community-building language: "we", "us")
+
+[TONE GUIDELINES]
+- Less polished than LinkedIn
+- Less performative than Twitter
+- More personal than blog post
+- Think: Coffee shop conversation with smart friend
+
+[QUALITY CRITERIA]
+Success means:
+✓ Post invites thoughtful replies (not just "Great post!")
+✓ You can genuinely engage with diverse responses
+✓ Feels authentic to your voice
+✓ Provides value even if no one replies
+✓ Builds relationship, not just reach
+
+OUTPUT: Complete Threads post (200-300 words) with exact word count.
+```
+
+---
+
+### **5. EMAIL SUBJECT LINES (10 variantes pour A/B testing)**
+
+```
+[CONTEXT - 20%]
+You are an email marketing expert who has analyzed 100,000+ subject line A/B tests across industries. You understand that subject lines determine 40-60% of open rates, and that personalization (+26%), curiosity gaps (+18%), and specificity (+15%) are the highest-performing triggers. You study campaigns from Morning Brew ($250M revenue), James Clear (3M subscribers), and Tim Ferriss (2M subscribers).
+
+[TASK - 30%]
+Generate 10 email subject line variations for [TOPIC/NEWSLETTER] that maximize open rates through diverse psychological triggers. Each subject line must be testable against the others, feel authentic to the brand, and deliver on its promise.
+
+[INPUT - 20%]
+Newsletter Topic: [SPECIFIC TOPIC]
+Main Value: [What reader gains, 1 sentence]
+Target Audience: [Demographics + professional context]
+Brand Voice: [Authoritative/Casual/Witty/Educational]
+Email Content Preview: [First 2-3 sentences of email body]
+Send Context: [Weekly/Daily, Day of week, Typical open rate]
+
+[FORMAT - 15%]
+
+For each subject line, provide:
+
+CATEGORY | SUBJECT LINE | CHAR COUNT | PREDICTED OPEN RATE | PSYCHOLOGICAL TRIGGER | MOBILE PREVIEW | NOTES
+
+Generate 2 subject lines for each of these 5 proven categories:
+
+**CATEGORY 1: CURIOSITY GAP**
+Reveal 70%, withhold 30%
+Example: "The $47K mistake I almost made"
+Triggers: Curiosity + Specificity
+
+**CATEGORY 2: PERSONALIZATION + NUMBER**
+Use "you" or name, include specific number
+Example: "[Name], 3 things about [topic]"
+Triggers: Personal relevance + Specificity
+
+**CATEGORY 3: QUESTION**
+Thought-provoking, not rhetorical
+Example: "Is your [common practice] actually hurting [goal]?"
+Triggers: Self-reflection + Concern
+
+**CATEGORY 4: FOMO/URGENCY (Ethical)**
+Real scarcity or time-sensitive value
+Example: "This changes everything for [audience]"
+Triggers: FOMO + Relevance
+
+**CATEGORY 5: SPECIFIC BENEFIT**
+Tangible outcome + timeframe
+Example: "Double your [metric] in 30 days"
+Triggers: Clarity + Reciprocity
+
+[EXAMPLES - 10%]
+
+Newsletter: Weekly marketing insights for solopreneurs
+
+CURIOSITY GAP:
+Subject: "I analyzed 1,000 landing pages. Found something weird."
+Char: 58 | Predicted: 48% | Trigger: Curiosity + Authority
+Preview: "I analyzed 1,000 landing pages. Found something weird. (Mobile: 40 chars visible)
+Notes: "Weird" creates gap, "1,000" builds authority
+
+PERSONALIZATION + NUMBER:
+Subject: "Sarah, 3 marketing mistakes costing you $10K/year"
+Char: 52 | Predicted: 52% | Trigger: Personal + Loss Aversion
+Preview: "Sarah, 3 marketing mistakes costing you $10K/year"
+Notes: Name + specific dollar loss = high relevance
+
+QUESTION:
+Subject: "Is your pricing strategy leaving money on the table?"
+Char: 56 | Predicted: 44% | Trigger: Self-audit + FOMO
+Preview: "Is your pricing strategy leaving money on the table?"
+Notes: Makes reader pause and wonder
+
+FOMO/URGENCY:
+Subject: "The marketing shift everyone's missing (2025)"
+Char: 49 | Predicted: 46% | Trigger: FOMO + Timeliness
+Preview: "The marketing shift everyone's missing (2025)"
+Notes: Year adds urgency, "everyone" = social proof
+
+SPECIFIC BENEFIT:
+Subject: "How to get your first 100 customers in 60 days"
+Char: 52 | Predicted: 50% | Trigger: Clarity + Timeframe
+Preview: "How to get your first 100 customers in 60 days"
+Notes: Specific number + deadline = actionable
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Use ALL CAPS (feels spammy)
+- Use excessive emojis (max 1, only if brand-appropriate)
+- Make false promises (destroys trust + click-through)
+- Use spam trigger words: "FREE", "ACT NOW", "AMAZING"
+- Exceed 60 characters (mobile truncation)
+
+MUST INCLUDE:
+- At least 5 subject lines under 50 characters (mobile-first)
+- At least 2 with specific numbers
+- At least 1 personalization option
+- Authentic to brand voice (no clickbait)
+- Each category represented by 2 variations
+
+[MOBILE OPTIMIZATION]
+- First 40 characters = most critical (visible on mobile)
+- Front-load value/intrigue
+- Test: Does it make sense if truncated at character 40?
+
+[PERSONALIZATION VARIABLES]
+Where applicable, use:
+- {{first_name}} = personalization
+- [Topic] = main subject
+- [Benefit] = core value prop
+- [Number] = specific metric
+- [Timeframe] = days/weeks/months
+
+[PSYCHOLOGICAL TRIGGERS HIERARCHY]
+Based on 100K+ A/B tests:
+
+1. **Curiosity Gap (18-25% lift):** Incomplete information
+2. **Personalization (15-26% lift):** Name, "you", relevant context
+3. **Specificity (10-15% lift):** Numbers, details, not vague
+4. **Social Proof (8-12% lift):** "1000+ people", "Top creators"
+5. **Loss Aversion (12-18% lift):** "Mistake", "Missing", "Costing you"
+6. **Urgency (10-15% lift):** Real deadlines, timely info
+7. **Question (8-12% lift):** Makes reader self-audit
+
+[A/B TESTING STRATEGY]
+Test pairs from different categories:
+- Week 1: Curiosity vs Specific Benefit
+- Week 2: Question vs Personalization
+- Week 3: Winner from Week 1 vs FOMO
+Continue iterating with top performers
+
+[QUALITY CRITERIA]
+Success means:
+✓ Each subject line passes "Would I personally open this?" test
+✓ No misleading promises (content delivers on subject)
+✓ Diverse enough to test different audience segments
+✓ Character counts optimized for mobile
+✓ Clear winner hypothesis (which should perform best and why)
+
+OUTPUT FORMAT:
+Table with all 10 subject lines showing:
+Category | Subject Line | Characters | Predicted Open % | Main Trigger | Why it works
+```
+
+---
+
+### **6. POST LINKEDIN TEXTE LONG (1300-1500 caractères)**
+
+```
+[CONTEXT - 20%]
+You are a LinkedIn thought leader with 100K+ followers. You understand that LinkedIn's 2025 algorithm prioritizes DWELL TIME (how long people read) and GENUINE COMMENTS over vanity metrics. The optimal post length is 1,300-1,500 CHARACTERS (not words—approximately 220-260 words), formatted with strategic line breaks for mobile readability and "See more" expansion.
+
+[TASK - 30%]
+Create a LinkedIn post (1,300-1,500 characters) on [TOPIC] that stops the scroll, provides genuine value, and sparks meaningful discussion. This post must balance professional credibility with authentic vulnerability—corporate polish is OUT, human connection is IN for 2025.
+
+[INPUT - 20%]
+Topic: [SPECIFIC TOPIC]
+Key Insight: [Main takeaway, 1-2 sentences]
+Target Audience: [Professional role + career stage + pain points]
+Brand Voice: [Thought Leader/Peer/Challenger/Teacher]
+Credibility Signal: [Your relevant experience, result, or credential]
+
+[FORMAT - 15%]
+
+STRUCTURE (1,300-1,500 characters):
+
+**HOOK (1 line, 8-12 words):**
+Vulnerable confession, surprising stat, or bold statement
+Purpose: Pattern interrupt in corporate feed
+Must stand alone above "See more" fold (critical)
+
+**[LINE BREAK]**
+
+**STORY/CONTEXT (8-10 lines, 1-2 sentences per line):**
+- Set specific scene (names, numbers, dates—NOT generic)
+- Build tension with relatable professional struggle
+- Include "aha moment" or turning point
+- Extract universal lesson applicable to reader
+
+Each line: Max 2 sentences (ideally 1 for impact)
+Use line breaks between ideas (whitespace = mobile readability)
+
+**[LINE BREAK]**
+
+**TAKEAWAY (2-3 lines):**
+Actionable insight or framework
+Make it screenshot-worthy (this should spread beyond post)
+Bold formatting optional (use sparingly: max 1 phrase)
+
+**[LINE BREAK]**
+
+**CONVERSATION STARTER (1-2 lines):**
+Specific question that invites diverse experiences
+NOT "What do you think?" or "Agree?"
+INSTEAD: "What's your experience with X?" or "Have you seen Y work in Z context?"
+
+[EXAMPLES - 10%]
+
+Example 1 (Thought Leader Voice):
+
+I bombed my biggest pitch last week.
+
+*[LINE BREAK]*
+
+We'd spent 6 weeks preparing for this Fortune 500 meeting. Deck was perfect. Demo was polished. Team was ready.
+
+15 minutes in, the CMO stopped me: "We don't need another tool. We need someone who understands our problem."
+
+She was right. I'd been selling features. They needed empathy.
+
+So I closed the deck. Put away the demo. And asked: "Tell me what's keeping you up at night."
+
+The next 45 minutes became a conversation, not a presentation.
+
+We didn't win the deal that day. But we won their trust.
+
+*[LINE BREAK]*
+
+The lesson: Your audience doesn't want to be impressed. They want to be understood.
+
+Stop optimizing your pitch. Start optimizing your listening.
+
+*[LINE BREAK]*
+
+When's the last time you closed the deck and just listened?
+
+(1,285 characters)
+
+Example 2 (Peer/Challenger Voice):
+
+Everyone's talking about "finding your niche."
+
+I tried that for 2 years. Made $0.
+
+*[LINE BREAK]*
+
+Here's what actually worked: Solve 1 expensive problem for 1 specific person.
+
+I stopped saying "I help entrepreneurs grow their business" (meaningless).
+
+Started saying "I help B2B SaaS founders convert their free trials" (specific).
+
+Same skills. Different positioning. Revenue went from $0 to $180K in 9 months.
+
+The problem wasn't my niche. It was my clarity.
+
+Most "positioning" advice is theoretical. "Find the intersection of your passion and market need."
+
+But markets don't buy passion. They buy solutions to $10K+ problems.
+
+*[LINE BREAK]*
+
+The framework that worked:
+→ Identify 1 painful, expensive problem
+→ Talk to 10 people experiencing it
+→ Build solution that saves/makes them 10× what you charge
+→ Price it accordingly
+
+*[LINE BREAK]*
+
+What's the most expensive problem your ideal client faces right now?
+
+(1,456 characters)
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Use exclamation points (max 1 per entire post)
+- Start with "Unpopular opinion:" or "Here's the truth:"
+- Write paragraphs longer than 3 lines
+- Use emojis unless industry-appropriate (B2C yes, B2B no)
+- Make it a humble-brag disguised as advice
+
+MUST INCLUDE:
+- At least 1 specific number (stat, result, timeframe)
+- At least 1 line break for readability (creates breathing room)
+- Vulnerable or authentic moment (connection over perfection)
+- Actionable insight (not just story for story's sake)
+- Question that invites genuine response (not engagement bait)
+
+[FORMATTING RULES - CRITICAL]
+- Line breaks: After hook, between story sections, before takeaway
+- Paragraphs: Max 2-3 lines (mobile readability)
+- Bold: 0-1 phrases total (overuse = dilution)
+- First 2 lines must work above "See more" fold
+- Character count: 1,300-1,500 (NOT word count—characters)
+
+[LINKEDIN ALGORITHM 2025]
+✓ Dwell Time (how long they read) > Likes
+✓ Genuine Comments > Generic "Great post!"
+✓ Saves > Shares
+✓ Conversation depth (replies to comments) matters
+✓ External links = distribution penalty (avoid)
+
+[PSYCHOLOGICAL TRIGGERS]
+✓ Vulnerability (builds connection in corporate environment)
+✓ Specificity (concrete details = credibility)
+✓ Authority (demonstrated through results, not claimed)
+✓ Reciprocity (give framework/insight for free)
+✓ Relatability (professional struggle we've all faced)
+
+[VOICE GUIDELINES]
+- Confident but humble (not guru, not self-deprecating)
+- Professional but human (not corporate speak, not too casual)
+- Insightful but accessible (not academic, not dumbed-down)
+- Think: Giving advice to smart colleague over coffee
+
+[QUALITY CRITERIA]
+Success means:
+✓ First line makes them click "See more"
+✓ Story builds to satisfying payoff
+✓ Takeaway is screenshot/shareable
+✓ Question generates 20+ meaningful comments
+✓ Post positions you as thoughtful practitioner, not thought leader poser
+
+[CHARACTER COUNT VERIFICATION]
+- Must be 1,300-1,500 characters (spaces included)
+- Use character counter, not word counter
+- ~220-260 words typically = 1,300-1,500 characters
+
+OUTPUT: Complete LinkedIn post with exact character count confirmation.
+```
+
+---
+
+## 🚀 **TIER PRO**
+
+### **7. TEXTE THUMBNAIL YOUTUBE (5 variantes)**
+
+```
+[CONTEXT - 20%]
+You are a YouTube thumbnail copywriter who has analyzed 10,000+ viral thumbnails. You know that MrBeast attributes 50% of his CTR to thumbnail text, and that effective thumbnail copy is 3-4 words MAX, uses high-contrast colors, and creates curiosity without clickbait. Successful thumbnail text works in tandem with the title and facial expression to trigger the click.
+
+[TASK - 30%]
+Generate 5 thumbnail text variations (3-4 words each) for a YouTube video on [TOPIC]. Each variation must trigger a different psychological lever while maintaining authenticity and delivering on the promise.
+
+[INPUT - 20%]
+Video Title: [FULL TITLE]
+Main Hook: [Core value proposition, 1 sentence]
+Key Result/Number: [Specific outcome or stat from video]
+Emotion/Angle: [Surprise/Shock/Curiosity/Excitement/Fear]
+Target CTR: [4-6% good, 8-10%+ excellent, 12%+ viral]
+
+[FORMAT - 15%]
+
+For each variation provide:
+
+TEXT | WORD COUNT | COLOR SCHEME | PSYCHOLOGICAL TRIGGER | PREDICTED CTR | BEST-FIT THUMBNAIL STYLE | NOTES
+
+**VARIATION CATEGORIES:**
+
+**Option 1: RESULT-FOCUSED**
+Format: "$[Number] in [Timeframe]" or "[Number] [Unit]"
+Example: "$100K in 6 Months" or "10M Views"
+Trigger: Social Proof + Specific Outcome
+Best for: Case study, tutorial, results reveal
+
+**Option 2: QUESTION/CHALLENGE**
+Format: "[Subject]?" or "Can You...?"
+Example: "Really?" or "Best Way?"
+Trigger: Curiosity + Self-Challenge
+Best for: Myth-busting, testing, experiments
+
+**Option 3: EXTREME/SUPERLATIVE**
+Format: "The [Superlative] [Noun]"
+Example: "BIGGEST Mistake" or "EASIEST Method"
+Trigger: Pattern Interrupt + Intensity
+Best for: Contrarian takes, top lists
+
+**Option 4: INSIDER/SECRET**
+Format: "The [Noun] They Hide"
+Example: "Secret Strategy" or "Hidden Truth"
+Trigger: Exclusivity + FOMO
+Best for: Industry reveals, behind-scenes
+
+**Option 5: URGENCY/WARNING**
+Format: "STOP [Action]" or "DON'T [Mistake]"
+Example: "STOP Wasting Time" or "DON'T Do This"
+Trigger: Loss Aversion + Concern
+Best for: Warnings, cautionary tales
+
+[EXAMPLES - 10%]
+
+Video: "How I Built a $10M SaaS Company from Scratch"
+
+**Variation 1: Result-Focused**
+Text: "$10M in 3 Years"
+Words: 4 | Colors: Green text, black stroke | Trigger: Social Proof
+CTR: 9/10 | Style: Split screen (before/after) with result prominent
+Notes: Specific number = credibility, timeframe = achievability
+
+**Variation 2: Question**
+Text: "From $0?"
+Words: 2 | Colors: Yellow text, red outline | Trigger: Disbelief/Curiosity
+CTR: 8/10 | Style: Surprised face + question mark visual
+Notes: Implies impossible journey, creates gap
+
+**Variation 3: Superlative**
+Text: "FASTEST Growth"
+Words: 2 | Colors: Red text, white stroke (high contrast) | Trigger: Intensity
+CTR: 7/10 | Style: Upward arrow graphic + excited expression
+Notes: ALL CAPS = urgency, superlative = bold claim
+
+**Variation 4: Insider**
+Text: "The Real Strategy"
+Words: 3 | Colors: White text, purple background | Trigger: Exclusivity
+CTR: 8/10 | Style: Pointing at text + knowing smile
+Notes: "Real" implies others lie, insider positioning
+
+**Variation 5: Warning**
+Text: "AVOID This"
+Words: 2 | Colors: Red text, yellow background (caution) | Trigger: Loss Aversion
+CTR: 7/10 | Style: Concerned expression + pointing gesture
+Notes: Protective framing, negative angle
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Exceed 4 words (thumbnail text must be instant-read)
+- Use clickbait that video doesn't deliver on
+- Make text too small (must be readable on mobile)
+- Use complex words (keep grade 6-8 reading level)
+- Copy exact title (thumbnail complements, doesn't repeat)
+
+MUST INCLUDE:
+- At least 1 variation with specific number
+- At least 1 variation in ALL CAPS (for emphasis)
+- Color scheme recommendations (high contrast essential)
+- Mobile readability consideration
+- Authenticity (matches video content)
+
+[TYPOGRAPHY BEST PRACTICES]
+**Font:** Sans-serif, bold, heavy weight (Impact, Anton, Bebas Neue)
+**Size:** Minimum 80pt for 1280×720 thumbnail (huge = readable)
+**Stroke:** 8-12pt outline (black or white) for contrast
+**Position:** Bottom third or top third (never center—blocks face)
+**Alignment:** Left or right (asymmetry more dynamic)
+
+[COLOR PSYCHOLOGY]
+- **Yellow/Green:** Positive, money, success, growth
+- **Red:** Urgency, warning, excitement, intensity
+- **Blue:** Trust, calm, professional (less common, less CTR)
+- **White/Black:** Contrast, clarity, premium feel
+- **Purple:** Exclusivity, mystery, insider knowledge
+
+HIGH-CONTRAST PAIRS (most effective):
+- Yellow text + Black/Red stroke
+- White text + Black stroke
+- Red text + White/Yellow stroke
+- Green text + Black stroke
+
+[THUMBNAIL SYNERGY]
+Text must work WITH:
+- Facial expression (shock, excitement, concern)
+- Visual elements (arrows, circles, graphics)
+- Title (complementary, not redundant)
+- Niche expectations (finance vs fitness vs tech)
+
+[CTR OPTIMIZATION FORMULA]
+CTR = (Curiosity + Clarity) × (Emotion + Contrast) ÷ Complexity
+
+High CTR thumbnails:
+✓ Create curiosity gap (what's the result/secret/mistake?)
+✓ Clear at a glance (readable in 0.3 seconds)
+✓ Trigger emotion (surprise, fear, excitement, disbelief)
+✓ High visual contrast (text pops off background)
+✓ Simple (3-4 words, not sentence)
+
+[QUALITY CRITERIA]
+Success means:
+✓ Text readable on phone screen from 3 feet away
+✓ Works even if facial expression removed (text carries weight)
+✓ Different enough to A/B test (not just synonyms)
+✓ Authentic to video content (no bait-and-switch)
+✓ Triggers distinct psychological response per variation
+
+[A/B TESTING STRATEGY]
+- Upload video with Variation 1
+- After 24 hours, check CTR
+- If CTR <6%, swap to Variation 2
+- Test 3-5 variations to find winner
+- Winner becomes template for similar videos
+
+OUTPUT FORMAT:
+Table with 5 variations showing:
+Text | Words | Color Scheme | Trigger | Predicted CTR (1-10) | Best Thumbnail Style | Why it works
+```
+
+---
+
+### **8. POST INSTAGRAM (2200 caractères + hashtags)**
+
+```
+[CONTEXT - 20%]
+You are an Instagram content strategist who specializes in high-engagement carousel posts and long-form captions. Instagram's 2025 algorithm prioritizes SAVES over likes (strongest signal), comments over shares, and completion rate for carousels. The platform allows up to 2,200 characters in captions—use them strategically to create value-dense content that followers save as a resource.
+
+[TASK - 30%]
+Create an Instagram post caption (2,000-2,200 characters) on [TOPIC] that provides standalone value, encourages saves, and sparks genuine conversation. This should work as both a carousel post (each slide = one section) OR a single image post with substantial caption.
+
+[INPUT - 20%]
+Topic: [SPECIFIC TOPIC]
+Content Type: [Carousel 5-7 slides / Single Image with long caption]
+Target Audience: [Demographics + interests + pain points]
+Brand Voice: [Inspirational/Educational/Behind-the-scenes/Lifestyle]
+Key Takeaway: [Main value, 1-2 sentences]
+Visual Style: [Aesthetic, colors, mood]
+
+[FORMAT - 15%]
+
+**STRUCTURE (2,000-2,200 characters):**
+
+**HOOK (1-2 lines):**
+Must grab attention in first 125 characters (before "...more")
+Options: Bold statement, question, specific result, vulnerability
+Include line break after hook for emphasis
+
+**INTRO (50-75 words):**
+Expand on hook with context
+Why this matters to follower RIGHT NOW
+Personal touch or relatability signal
+
+**MAIN CONTENT (150-180 words):**
+
+If Carousel:
+Outline what each slide contains
+Example: "Slide 1: The mistake / Slide 2: Why it happens / Slide 3: The fix"
+
+If Single Post:
+Break into 3-5 sections with emojis as bullets
+Each section: Subheading (bold emoji + 3-4 words) + Explanation (30-40 words)
+
+**ACTIONABLE TAKEAWAY (30-50 words):**
+One specific action follower can take this week
+Clear, simple, achievable
+
+**PERSONAL NOTE/CTA (20-30 words):**
+Authentic voice, not salesy
+Options:
+- Share your experience with this
+- Save this for later
+- Tag someone who needs this
+- Comment with [specific question]
+
+**HASHTAG STRATEGY (10-20 hashtags):**
+Mix:
+- 3-5 niche hashtags (10K-100K posts)
+- 3-5 medium hashtags (100K-500K posts)
+- 2-3 broad hashtags (500K-1M posts)
+- 2-3 branded/community hashtags
+
+Separate hashtags with line breaks OR place after emoji divider
+
+[EXAMPLES - 10%]
+
+Example 1: Carousel Post (Educational)
+
+5 things I wish I knew before starting my business 👇
+
+*[LINE BREAK]*
+
+I spent $47K learning these lessons. You can read them in 2 minutes.
+
+Here's what nobody tells you about entrepreneurship:
+
+*[LINE BREAK]*
+
+📊 SLIDE 1: Revenue ≠ Profit
+I hit $100K in revenue year 1 and felt rich. Until I did the math.
+After expenses, taxes, and reinvestment? I made $18K.
+That's $1,500/month. Less than my old job.
+Lesson: Track profit margin from day 1, not just top-line revenue.
+
+💼 SLIDE 2: Your First Hires Matter More Than You Think
+Hired 3 people in month 6. All wrong fits. Cost me $30K and 6 months.
+What I learned: Hire slow, fire fast. One A-player > three B-players.
+Your early team sets your culture. Choose wisely.
+
+⏰ SLIDE 3: You Can't Outwork Bad Strategy
+I worked 80-hour weeks for 8 months. Got nowhere.
+Then I worked 30 hours on the RIGHT things. 3× revenue.
+Lesson: Strategy beats hustle. Focus beats effort.
+
+🎯 SLIDE 4: Niching Down Feels Scary But Works
+"I help everyone" = I help no one.
+When I went from "marketing consultant" to "email marketing for SaaS founders," revenue jumped 4×.
+Riches in niches is real.
+
+💰 SLIDE 5: Cash Flow Kills More Businesses Than Bad Ideas
+You can have great product, happy customers, growing revenue—and still go bankrupt.
+Learn to read a cash flow statement. It's not sexy, but it's survival.
+
+*[LINE BREAK]*
+
+This week: Audit your numbers. Revenue, expenses, profit margin, cash on hand.
+
+What you measure, you manage.
+
+*[LINE BREAK]*
+
+Which slide hit hardest? 👇
+
+*[HASHTAGS]*
+#entrepreneurship #businesstips #startupadvice #solopreneur #businessgrowth #entrepreneurlife #smallbusinessowner #businessmindset #startuplife #entrepreneurtips #businessowner #growyourbusiness #onlinebusiness #businesscoach #entrepreneurmotivation
+
+(2,187 characters)
+
+---
+
+Example 2: Single Image Post (Behind-the-Scenes)
+
+The photo vs the reality 📸
+
+*[LINE BREAK]*
+
+What you see: Laptop on beach, perfect lighting, "living the dream."
+
+What you don't see: I'm on deadline, the WiFi is terrible, and I got sunburned because I was too focused to reapply sunscreen.
+
+*[LINE BREAK]*
+
+I love what I do. But the "laptop lifestyle" Instagram sells isn't the full story.
+
+Here's what 3 years of remote work actually looks like:
+
+*[LINE BREAK]*
+
+✈️ THE TRAVEL
+Yes, I work from cool places. But it's exhausting. Constantly finding WiFi, figuring out time zones, missing home.
+Reality: 70% of my work happens from my desk at home. The other 30% is travel. Not the other way around.
+
+💻 THE FLEXIBILITY
+I can work when I want! Except... clients don't care about my flexible schedule. Deadlines are deadlines.
+Reality: I have more flexibility, but also more responsibility. No boss means no one to blame but me.
+
+💰 THE INCOME
+"Passive income" sounds amazing. Spoiler: it's not passive. It requires active work to set up and maintain.
+Reality: I work as hard as I did in my 9-5. The difference? I'm building my asset, not someone else's.
+
+🧠 THE MENTAL GAME
+Loneliest thing I've done. No coworkers, no water cooler talk, no team lunches.
+Reality: I have to actively build community. It doesn't happen by default anymore.
+
+*[LINE BREAK]*
+
+I'm not complaining. I chose this. But the highlight reel doesn't show the full story.
+
+If you're building something: It's okay if it's messy. It's okay if it's not Instagram-perfect.
+
+Keep building anyway.
+
+*[LINE BREAK]*
+
+What's one reality of your journey that doesn't make it to social? 👇
+
+#realitycheck #entrepreneurreality #behindthescenes #remoteworklife #solopreneurlife #businessreality #entrepreneurjourney #workfromhome #digitalnomad #realtalk #honestcontent #businessowner #entrepreneurmindset #startuplife #smallbusiness
+
+(2,156 characters)
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Exceed 2,200 characters (strict limit)
+- Use spammy hashtags (#follow4follow, #like4like)
+- Write in all caps (looks desperate)
+- Include external links in caption (reduces reach)
+- Use more than 20 hashtags (looks spammy)
+
+MUST INCLUDE:
+- Hook within first 125 characters (before "...more")
+- At least 2 line breaks for mobile readability
+- Personal touch or vulnerability (authenticity)
+- Clear value (educational/entertaining/inspiring)
+- Specific CTA (save/comment/tag, not generic "double tap")
+- 10-20 relevant hashtags
+
+[INSTAGRAM ALGORITHM 2025 OPTIMIZATION]
+✓ SAVES = strongest signal (create save-worthy content)
+✓ Comments > Likes (ask specific question)
+✓ Completion rate (for carousels—make each slide valuable)
+✓ Shares to Stories (make it share-worthy)
+✓ Consistent posting (algorithm rewards consistency)
+
+[FORMATTING BEST PRACTICES]
+- Line breaks: After hook, between sections, before CTA
+- Emojis: Use as section headers (1-2 per section)
+- Bold text: NOT possible on Instagram (use line breaks for emphasis)
+- Hashtags: Either mixed into caption naturally OR separated at end
+- Mobile-first: 90% of users on mobile, format accordingly
+
+[CAROUSEL-SPECIFIC TIPS]
+If creating carousel:
+- Hook should preview all slides
+- Each slide = one clear idea (not overwhelming)
+- Slides 1-3: Most critical (completion rate matters)
+- Slide 7-10: Recap + CTA (people forget beginning)
+- Design consistency across all slides
+
+[HASHTAG STRATEGY]
+**Research:**
+- Check hashtag size before using (avoid mega hashtags >5M posts)
+- Find hashtags your audience actually uses
+- Mix popular + niche for reach + targeting
+
+**Placement:**
+Option A: Integrated naturally in caption
+Option B: Separated by line breaks at end (cleaner look)
+
+**Update quarterly:** Hashtag effectiveness changes
+
+[PSYCHOLOGICAL TRIGGERS]
+✓ Vulnerability (authentic connection)
+✓ Reciprocity (massive value for free)
+✓ Scarcity (exclusive insight/behind-scenes)
+✓ Social Proof (results, testimonials if relevant)
+✓ Storytelling (narrative arc, not just tips)
+
+[VOICE & TONE]
+Instagram-appropriate:
+- More casual than LinkedIn
+- More personal than Twitter
+- More visual-minded (describe what followers see)
+- Can use emojis generously (unlike LinkedIn)
+
+[QUALITY CRITERIA]
+Success means:
+✓ Follower saves post to reference later (strongest signal)
+✓ Sparks 50+ meaningful comments (not just emojis)
+✓ Gets shared to Stories (social proof)
+✓ Provides value even without carousel images (caption stands alone)
+✓ Authentic to your voice (not template-y)
+
+[CHARACTER COUNT VERIFICATION]
+- Must be 2,000-2,200 characters (maximize caption real estate)
+- Instagram allows up to 2,200—use it for value-density
+- Include spaces in character count
+
+OUTPUT: Complete Instagram caption (2,000-2,200 characters) with:
+- Caption text
+- Suggested hashtags (10-20)
+- Character count confirmation
+- Carousel slide breakdown (if applicable)
+```
+
+---
+
+### **9. IDÉES VIDÉOS FOLLOW-UP (5 idées pour capitaliser sur succès)**
+
+```
+[CONTEXT - 20%]
+You are a YouTube/TikTok content strategist who specializes in content series and sequencing. When a video performs well, smart creators capitalize immediately with follow-up content that rides the momentum, satisfies viewer curiosity, and builds on the initial hook. You study MrBeast's sequel strategy, Ali Abdaal's series frameworks, and Colin & Samir's trend analysis.
+
+[TASK - 30%]
+Generate 5 follow-up video ideas based on [ORIGINAL VIDEO TOPIC]. Each idea must:
+- Build on the original video's hook or insight
+- Target the same audience with a fresh angle
+- Be producible within 7-14 days (capitalize on momentum)
+- Have standalone value (not dependent on original)
+- Increase likelihood of series/playlist building
+
+[INPUT - 20%]
+Original Video Title: [TITLE]
+Main Topic: [TOPIC]
+Key Hook: [What made it successful]
+Top Comments/Questions: [3-5 questions viewers asked]
+View Count: [If known—indicates demand level]
+Audience: [Who watched and why]
+
+[FORMAT - 15%]
+
+For each follow-up idea, provide:
+
+**IDEA #[1-5]: [TITLE]**
+- **Angle:** [What's different from original]
+- **Hook:** [First 5 seconds of video]
+- **Structure:** [3-part outline]
+- **Why It Works:** [Psychological trigger + momentum play]
+- **Production Ease:** [1-10, 10 = very easy to produce]
+- **Estimated Performance:** [Relative to original: Lower/Similar/Higher]
+- **Timeline:** [Optimal publishing window: 3 days / 1 week / 2 weeks]
+
+[FOLLOW-UP STRATEGIES - 5 TYPES]
+
+**Type 1: DEEPR DIVE**
+Go deeper into one subtopic from original
+Example: Original "7 Business Mistakes" → Follow-up "The #1 Mistake Explained"
+
+**Type 2: OPPOSITE ANGLE**
+Flip the perspective or show the inverse
+Example: Original "How to Succeed" → Follow-up "5 Ways People Fail"
+
+**Type 3: BEHIND-THE-SCENES**
+Show process, failures, or what you learned making original
+Example: Original "I Built $10K Business" → Follow-up "What I Didn't Show You"
+
+**Type 4: AUDIENCE Q&A**
+Answer top questions from original video's comments
+Example: Original "Productivity System" → Follow-up "Your Top 10 Questions Answered"
+
+**Type 5: UPDATED/TESTED**
+Apply advice from original, show results, or update information
+Example: Original "Social Media Strategy" → Follow-up "I Tested This for 30 Days"
+
+[EXAMPLES - 10%]
+
+Original Video: "How I Built a $100K Newsletter in 6 Months"
+Views: 250K | Comments asked about: growth tactics, monetization, tech stack
+
+---
+
+**IDEA #1: The $100K Newsletter Breakdown (Every Dollar)**
+- **Angle:** DEEPER DIVE into monetization (most-asked question)
+- **Hook:** "Here's exactly how I made $100K from a newsletter. Dollar by dollar breakdown."
+- **Structure:**
+  1. Revenue Stream 1: Sponsorships ($65K—how I got them)
+  2. Revenue Stream 2: Premium tier ($28K—what subscribers get)
+  3. Revenue Stream 3: Affiliate ($7K—which products converted)
+- **Why It Works:** Specificity (people love exact numbers) + Reciprocity (insider view) + Authority (proof)
+- **Production Ease:** 8/10 (just screen recording + slides)
+- **Estimated Performance:** Similar to original (highly requested topic)
+- **Timeline:** 7 days (strike while curiosity is hot)
+
+---
+
+**IDEA #2: 5 Newsletter Mistakes That Cost Me $50K**
+- **Angle:** OPPOSITE (failures instead of successes)
+- **Hook:** "I lost $50,000 building my newsletter. Don't make these mistakes."
+- **Structure:**
+  1. Mistake 1: Wrong platform choice (cost: $12K in missed revenue)
+  2. Mistake 2-4: Growth, monetization, tech mistakes
+  3. Mistake 5: Biggest lesson (vulnerability moment)
+- **Why It Works:** Loss Aversion (people fear mistakes more than desire success) + Vulnerability (connection)
+- **Production Ease:** 9/10 (talking head + b-roll)
+- **Estimated Performance:** Higher than original (negative angles often out perform)
+- **Timeline:** 3-5 days (ride the wave fast)
+
+---
+
+**IDEA #3: I Answered Your Top 10 Newsletter Questions**
+- **Angle:** AUDIENCE Q&A (directly address comments)
+- **Hook:** "You asked 247 questions about my newsletter. Here are the top 10."
+- **Structure:**
+  1. Questions 1-5: Rapid-fire answers (30 sec each)
+  2. Questions 6-9: Detailed answers (60-90 sec each)
+  3. Question 10: The hardest question (vulnerable answer)
+- **Why It Works:** Reciprocity (acknowledging audience) + Social Proof (247 questions = demand)
+- **Production Ease:** 7/10 (need to organize questions first)
+- **Estimated Performance:** Lower than original but builds loyalty
+- **Timeline:** 10-14 days (gives time to collect + organize questions)
+
+---
+
+**IDEA #4: The Newsletter Tech Stack ($0 to $100K)**
+- **Angle:** DEEPER DIVE (specific implementation details)
+- **Hook:** "These 5 tools took my newsletter from 0 to $100K. Here's my exact stack."
+- **Structure:**
+  1. Tool 1: Email platform (why I chose it, alternatives)
+  2. Tools 2-4: Analytics, scheduling, monetization
+  3. Tool 5: Surprising tool nobody talks about
+- **Why It Works:** Specificity (exact tools) + Actionability (viewers can implement) + Affiliate opportunity
+- **Production Ease:** 6/10 (screen share demos take time)
+- **Estimated Performance:** Similar to original (high utility)
+- **Timeline:** 14 days (thorough tool reviews take time)
+
+---
+
+**IDEA #5: I Tried Your Newsletter Strategies (30-Day Experiment)**
+- **Angle:** TESTED (implement audience suggestions)
+- **Hook:** "You suggested 10 newsletter strategies. I tested them all. Here's what worked."
+- **Structure:**
+  1. Setup: Hypothesis + methodology
+  2. Results: What worked (3 strategies) vs. flopped (7 strategies)
+  3. Surprising finding: The one strategy that worked best
+- **Why It Works:** Social Currency (audience contribution) + Curiosity (experiment outcomes) + Authority (data-driven)
+- **Production Ease:** 4/10 (requires actually doing 30-day experiment)
+- **Estimated Performance:** Higher than original (experiments perform well)
+- **Timeline:** 30-45 days (needs time for experiment)
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Create ideas that require impossible production timelines
+- Suggest follow-ups that cannibalize original video's value
+- Make ideas too similar (need distinct angles)
+- Ignore audience feedback (comments = gold mine)
+- Forget standalone value (should work even if viewer missed original)
+
+MUST INCLUDE:
+- Mix of timelines (some quick 3-day ideas, some deeper 30-day)
+- Mix of production difficulty (easy + hard)
+- At least 1 audience Q&A idea (community building)
+- At least 1 vulnerable/BTS idea (authenticity)
+- Clear connection to original video's success factors
+
+[SERIES STRATEGY]
+If multiple ideas perform well:
+- Create playlist: "[Original Topic] Complete Series"
+- Cross-link in descriptions: "Watch Part 1 here"
+- Consistent branding: Similar thumbnails/titles
+- Build anticipation: Tease next video in outro
+
+[PSYCHOLOGICAL MOMENTUM]
+✓ Strike while curiosity is hot (3-7 days for quick follow-ups)
+✓ Satisfy viewer questions (Q&A = reciprocity)
+✓ Flip angles (opposite perspectives = fresh interest)
+✓ Show vulnerability (BTS = authenticity + connection)
+✓ Go deeper (deep dives = authority building)
+
+[QUALITY CRITERIA]
+Success means:
+✓ Each idea has standalone value (not just sequel bait)
+✓ Mix of production difficulties (realistic timeline)
+✓ Addresses actual audience demand (comment-driven)
+✓ Builds on original's strengths (same hook type or emotion)
+✓ Creates series potential (playlist-worthy)
+
+[PRODUCTION PRIORITIZATION]
+**Week 1:** Produce Idea with highest Production Ease (8-10/10)
+**Week 2:** Produce Idea that addresses most-asked question
+**Week 3-4:** Produce Idea with highest Estimated Performance
+
+OUTPUT FORMAT:
+5 follow-up ideas, each with:
+- Title
+- Angle type
+- Hook (first 5 seconds)
+- 3-point structure
+- Why it works (psychological triggers)
+- Production ease (1-10)
+- Performance estimate
+- Optimal timeline
+```
+
+---
+
+### **10. SCRIPT TIKTOK/SHORTS/REELS (2 versions : 30-45s + 60-75s)**
+
+```
+[CONTEXT - 20%]
+You are a viral short-form video scriptwriter who has studied 10,000+ TikToks, YouTube Shorts, and Instagram Reels. You understand that the first 3 seconds determine 70% of performance, completion rate matters more than views, and dynamic captions (Anton font, uppercase, yellow stroke) boost retention by 40%. You write in the style of Alex Hormozi (hook-retain-reward), MrBeast (curiosity loops), and Hank Green (educational pacing).
+
+[TASK - 30%]
+Create TWO script variations for [TOPIC]:
+1. SHORT VERSION (30-45 seconds) - Maximum retention, viral-optimized
+2. LONG VERSION (60-75 seconds) - More depth, still retention-focused
+
+Each script must include timestamps, caption overlays, retention techniques, and psychological triggers.
+
+[INPUT - 20%]
+Topic: [SPECIFIC TOPIC]
+Key Insight: [Main value, 1-2 sentences]
+Target Audience: [Demographics + platform behavior]
+Tone: [Educational/Entertaining/Motivational/Provocative]
+Key Result/Stat: [Specific number or outcome to feature]
+Hook Type: [Question/Statement/Story/Challenge]
+
+[FORMAT - 15%]
+
+For each version provide:
+
+**SCRIPT STRUCTURE:**
+
+[TIMESTAMP] - SPOKEN SCRIPT
+**TEXT OVERLAY:** [What appears on screen]
+**VISUAL:** [What viewer sees]
+**RETENTION TECHNIQUE:** [Zoom/Cut/Sound effect]
+
+---
+
+**VERSION 1: SHORT (30-45 seconds)**
+
+Target: 60-70% completion rate
+Strategy: Hook → 1 insight → Payoff
+Pacing: Fast cuts every 3-5 seconds
+
+**[0:00-0:03] HOOK - Pattern Interrupt**
+
+Choose ONE formula:
+- "How I" statement: "How I made $X doing [SURPRISING METHOD]"
+- Challenge direct: "Stop [COMMON MISTAKE]. Here's why..."
+- Stat shock: "99% of [AUDIENCE] don't know [SURPRISING FACT]"
+
+SPOKEN SCRIPT: [Exact words]
+**TEXT OVERLAY:** [Bold uppercase, 3-5 words max, yellow stroke/white fill]
+**VISUAL:** [Face close-up, dynamic movement, or result reveal]
+**RETENTION:** [Zoom in, sound effect, pattern interrupt]
+
+---
+
+**[0:03-0:25] VALUE - Core Content (20-22 seconds)**
+
+ONE specific insight with concrete example
+
+SPOKEN SCRIPT: [Exact words]
+**TEXT OVERLAYS:**
+- [0:03-0:08] Key phrase 1
+- [0:08-0:13] Key phrase 2
+- [0:13-0:18] Key phrase 3
+- [0:18-0:25] Key phrase 4
+
+**VISUALS:** [B-roll, examples, before/after, demonstration]
+**RETENTION TECHNIQUES:**
+- [0:10] Zoom out (re-engage attention)
+- [0:15] Pattern change (new visual)
+- [0:20] Build to payoff
+
+---
+
+**[0:25-0:30] PAYOFF + CTA (5 seconds)**
+
+SPOKEN SCRIPT: [Result/lesson + follow CTA]
+**TEXT OVERLAY:** [Simple, direct: "Follow for more" or "Part 2 →"]
+**VISUAL:** [Back to face, satisfying payoff visual]
+**RETENTION:** [Zoom in face, music swell, emoji pop]
+
+---
+
+**CAPTION SPECIFICATIONS:**
+- Font: Anton or Bold Sans-Serif
+- Size: Large (readable on phone from 3 feet)
+- Style: Uppercase for emphasis, mixed case for sentences
+- Colors: Yellow stroke + White fill OR Green fill + Black stroke
+- Animation: Bottom-to-top pop-in, synchronized with speech
+- Timing: 3-5 words maximum on screen at once
+- Highlight: Key words in different color (e.g., numbers, results)
+
+---
+
+**VERSION 2: LONG (60-75 seconds)**
+
+Target: 40-50% completion rate
+Strategy: Hook → Problem → Solution → Proof → CTA
+Pacing: Balanced (mix fast + slower moments)
+
+**[0:00-0:03] HOOK**
+
+[Same structure as SHORT version]
+
+---
+
+**[0:03-0:15] PROBLEM/CONTEXT (12 seconds)**
+
+Why this matters, what's broken, relatable struggle
+
+SPOKEN SCRIPT: [Exact words]
+**TEXT OVERLAYS:** [Key phrases highlighting problem]
+**VISUAL:** [Show problem, frustrated expression, relatable scenario]
+**RETENTION:** [0:10 - Zoom in, emphasize frustration]
+
+---
+
+**[0:15-0:45] SOLUTION/FRAMEWORK (30 seconds)**
+
+2-3 specific steps or insights
+
+**POINT 1 (0:15-0:25):**
+SPOKEN SCRIPT: [Step 1 explanation]
+**TEXT OVERLAY:** [Step 1: Key takeaway]
+**VISUAL:** [Example, demonstration, diagram]
+**RETENTION:** [0:20 - Cut to new angle]
+
+**POINT 2 (0:25-0:35):**
+SPOKEN SCRIPT: [Step 2 explanation]
+**TEXT OVERLAY:** [Step 2: Key takeaway]
+**VISUAL:** [Different example, comparison]
+**RETENTION:** [0:30 - Sound effect, visual change]
+
+**POINT 3 (0:35-0:45):**
+SPOKEN SCRIPT: [Step 3 or surprise insight]
+**TEXT OVERLAY:** [Step 3: Most valuable insight]
+**VISUAL:** [Payoff example, before/after]
+**RETENTION:** [0:40 - Cliffhanger moment: "But here's the thing..."]
+
+---
+
+**[0:45-0:60] PROOF/RESULT (15 seconds)**
+
+Specific outcome, testimonial, or your result
+
+SPOKEN SCRIPT: [Exact words with specific number]
+**TEXT OVERLAY:** [Big number or result, different color highlight]
+**VISUAL:** [Result visual, chart, testimonial, screenshot]
+**RETENTION:** [0:50 - Zoom to result, music swell]
+
+---
+
+**[0:60-0:75] CTA + TEASE (15 seconds)**
+
+SPOKEN SCRIPT: [Summary + follow CTA + tease next content]
+**TEXT OVERLAY:** ["Follow @[USERNAME] for Part 2" or "Save for later"]
+**VISUAL:** [Face, friendly CTA, point to follow button]
+**RETENTION:** [0:70 - Final zoom, satisfying conclusion]
+
+---
+
+[EXAMPLES - 10%]
+
+Topic: "How I Got My First 1,000 Newsletter Subscribers in 30 Days"
+
+---
+
+**VERSION 1: SHORT (33 seconds)**
+
+**[0:00-0:03] HOOK**
+SPOKEN: "I got 1,000 newsletter subscribers in 30 days. No ads. Here's how."
+**TEXT:** "1,000 SUBS IN 30 DAYS"
+**VISUAL:** Face, surprised expression, gesture showing growth
+**RETENTION:** Zoom in fast, whoosh sound effect
+
+**[0:03-0:25] VALUE**
+SPOKEN: "I didn't use lead magnets or paid ads. I used Reddit. Found 3 subreddits where my audience hangs out. Posted valuable comments—not spam. Every comment had a PS line: 'I write about this topic weekly.' 70% conversion from profile to sign-up."
+**TEXT OVERLAYS:**
+[0:03] "No ads. No lead magnets."
+[0:08] "Found 3 Subreddits"
+[0:13] "Posted VALUE"
+[0:18] "PS: I write about this"
+[0:23] "70% conversion"
+**VISUAL:** Screen recording of Reddit, comments, profile, sign-up form
+**RETENTION:** [0:15] Zoom out to full Reddit page, [0:20] Cut to graph showing growth
+
+**[0:25-0:33] PAYOFF**
+SPOKEN: "1,000 subscribers, zero dollars spent. Follow for the full breakdown."
+**TEXT:** "Follow for Part 2 →"
+**VISUAL:** Back to face, satisfied smile, point up to follow button
+**RETENTION:** Music swell, zoom in face, checkmark graphic
+
+---
+
+**VERSION 2: LONG (68 seconds)**
+
+**[0:00-0:03] HOOK**
+SPOKEN: "I got 1,000 newsletter subscribers in 30 days without spending a dollar. Let me show you exactly how."
+**TEXT:** "1K SUBS | 30 DAYS | $0"
+**VISUAL:** Face, direct eye contact, confident
+**RETENTION:** Quick zoom in, sound effect
+
+**[0:03-0:15] PROBLEM**
+SPOKEN: "Most people try lead magnets, paid ads, or Twitter threads. All require either money or massive following. I had neither. I needed a free strategy that worked without existing audience."
+**TEXT:** "No budget. No audience."
+**VISUAL:** Show crossed-out ads, empty bank account visual, frustrated face
+**RETENTION:** [0:10] Zoom in on problem
+
+**[0:15-0:25] SOLUTION - Step 1**
+SPOKEN: "Step 1: I found 3 subreddits where my target audience actively asks questions. Not promo subreddits—real discussion communities."
+**TEXT:** "STEP 1: Find Your People"
+**VISUAL:** Screen recording browsing Reddit, showing subreddits
+**RETENTION:** [0:20] Cut to different angle
+
+**[0:25-0:35] SOLUTION - Step 2**
+SPOKEN: "Step 2: I answered 10-15 questions daily. Real answers, 200-300 words. No links. Just value. This built credibility."
+**TEXT:** "STEP 2: Give Real Value"
+**VISUAL:** Typing comment, Reddit karma going up, upvotes
+**RETENTION:** [0:30] Sound effect for upvote, visual change
+
+**[0:35-0:45] SOLUTION - Step 3**
+SPOKEN: "Step 3: Every comment ended with a PS: 'I write a weekly newsletter breaking down [topic].' That's it. No hard sell."
+**TEXT:** "STEP 3: Soft CTA"
+**VISUAL:** Comment with PS highlighted, cursor hovering
+**RETENTION:** [0:40] Cliffhanger: "Here's what happened..."
+
+**[0:45-0:60] RESULT**
+SPOKEN: "70% of people who clicked my profile subscribed. After 30 days: 1,047 subscribers. Best part? These people are ENGAGED. 48% open rate because they chose to follow me."
+**TEXT:** "70% conversion | 1,047 subs | 48% opens"
+**VISUAL:** Analytics screenshot showing numbers, graph going up
+**RETENTION:** [0:50] Zoom to numbers, music swell, celebration
+
+**[0:60-0:68] CTA**
+SPOKEN: "Follow me for part 2 where I show you my exact Reddit strategy and which subreddits work best. See you there."
+**TEXT:** "PART 2 COMING →"
+**VISUAL:** Face, friendly smile, point to follow, satisfying nod
+**RETENTION:** [0:65] Final zoom, outro music
+
+---
+
+[CONSTRAINTS - 5%]
+DO NOT:
+- Exceed specified time limits (strict: 30-45s or 60-75s)
+- Waste first 3 seconds (hook determines 70% of performance)
+- Use generic captions ("Wait for it", "Watch until end")
+- Forget timestamps (pacing is critical)
+- Ignore retention techniques (must keep attention every 8-10 seconds)
+
+MUST INCLUDE:
+- Exact timestamps for each section
+- Text overlay specifications (font, color, timing)
+- Visual descriptions (what viewer sees)
+- Retention techniques at key drop-off points (0:03, 0:10, 0:20, etc.)
+- Specific numbers or results (builds authority)
+- Pattern interrupts every 8-10 seconds
+
+[TIKTOK/SHORTS/REELS ALGORITHM 2025]
+✓ Completion Rate \u003e Watch Time (short + high completion better than long + low completion)
+✓ Rewatches (loopable content gets boosted)
+✓ Shares (save/send to friend = strong signal)
+✓ Comments (engagement matters, but less than completion)
+✓ Watch source (FYP discovery \u003e profile views)
+
+[CAPTION OVERLAY PSYCHOLOGY]
+- Highlight KEY WORDS in different colors (numbers, actions, results)
+- Uppercase = urgency and emphasis
+- Yellow/Green = positive, success, money, growth
+- Red = warning, urgency, attention
+- Pop-in animation = retains attention (static text = ignored)
+- Synchronized with speech = accessibility + emphasis
+
+[RETENTION DROP-OFF POINTS]
+Based on 10K+ video analysis:
+- 0:00-0:03 (55% drop) → HOOK must be strongest
+- 0:10-0:15 (30% drop) → First pattern interrupt needed
+- 0:25-0:30 (25% drop - SHORT) → Payoff must arrive
+- 0:45-0:50 (35% drop - LONG) → Proof/result must land
+
+**Retention techniques:**
+- Zoom in/out (re-engages visual attention)
+- Sound effects (audio stimulus)
+- Visual pattern change (new angle, B-roll, graphic)
+- Cliffhanger phrases: "But here's the thing...", "Wait until you see..."
+- Text highlights (color change, pop-in)
+
+[PSYCHOLOGICAL TRIGGERS]
+✓ Curiosity Gap (hook reveals 70%, withholds 30%)
+✓ Pattern Interrupt (unexpected elements in first 3 sec)
+✓ Authority (specific numbers, results, proof)
+✓ FOMO (exclusive insight, "nobody talks about this")
+✓ Reciprocity (actionable value, not just entertainment)
+✓ Simplicity (one big idea, not overwhelming)
+
+[VOICE & PACING]
+SHORT VERSION:
+- Fast-paced (175-200 words/minute)
+- Direct, no filler words
+- Energy level: HIGH
+- Sentences: Short, punchy (8-15 words)
+
+LONG VERSION:
+- Moderate pace (150-175 words/minute)
+- Build tension, then release (storytelling arc)
+- Energy level: Varied (high hook, moderate middle, high payoff)
+- Sentences: Mix short (impact) + longer (explanation)
+
+[QUALITY CRITERIA]
+Success means:
+✓ SHORT version: 60-70% completion rate (people finish)
+✓ LONG version: 40-50% completion rate (strong for 60-75s)
+✓ Rewatchable (loopable ending → beginning)
+✓ Shareable (valuable enough to send to friend)
+✓ Captions fully synchronized (accessible + emphatic)
+✓ Retention techniques every 8-10 seconds
+✓ Hook stops scroll within 0.3 seconds
+
+[PRODUCTION NOTES]
+**Filming:**
+- Vertical format (9:16 ratio)
+- Face in center third (never cut off face)
+- Natural lighting or ring light
+- Plain background (not distracting)
+
+**Editing:**
+- Cut every 3-5 seconds (dynamic pacing)
+- Auto-captions synced perfectly
+- Background music (low volume, not overpowering voice)
+- Sound effects at key moments (subtle, not annoying)
+
+**Posting:**
+- Best times: 6-9 AM, 12-2 PM, 7-11 PM (local time)
+- Include captions for accessibility
+- Use 3-5 relevant hashtags (not spam)
+- Reply to first 10-20 comments (boosts engagement)
+
+OUTPUT FORMAT:
+2 complete scripts showing:
+- Timestamp for each section
+- Spoken script (word-for-word)
+- Text overlay (exact wording + style)
+- Visual description
+- Retention techniques
+- Total duration confirmation
+```
+
+---
+
+## ✅ **RÉCAPITULATIF COMPLET**
+
+**Prompts créés :**
+1. Hook Generator (10 variantes)
+2. Tweets optimisés (9 variantes)
+3. Résumé court HBR (150 mots)
+4. Post Threads Meta (200-300 mots)
+5. Subject Lines Email (10 variantes)
+6. Post LinkedIn texte long (1300-1500 caractères)
+7. Texte Thumbnail YouTube (5 variantes)
+8. Post Instagram (2200 caractères)
+9. Idées vidéos follow-up (5 idées)
+10. Script TikTok/Shorts (2 versions)
+
+**Ajustements faits :**
+- LinkedIn : 1300-1500 CARACTÈRES (pas mots)
+- TikTok : 2 versions (30-45s + 60-75s)
+- Carrousel LinkedIn : Supprimé (algo 2025)
+
