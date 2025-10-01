@@ -13,7 +13,7 @@ export async function POST(request: Request) {
   try {
     // Call Python service
     const response = await fetch(
-      `${process.env.PYTHON_SERVICE_URL}/api/metadata`,
+      `${process.env.PYTHON_SERVICE_URL}/api/transcript`,
       {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
